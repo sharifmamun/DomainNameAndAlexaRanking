@@ -1,4 +1,4 @@
-DomainNameandAlexaRanking
+DomainNameAndAlexaRanking
 =========================
 
 This program can be provided on request, there is another whois executables with this file. Without that, this script will not work properly.
